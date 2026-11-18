@@ -5,7 +5,7 @@ A small script used to synchronize a folder on the Miyoo (mini, mini+, etc) with
 
 ## Installation
 * Unzip all the files to the root of your SD card
-* edit App/WebDavSync/config.conf and set your server + folder (SERVER), the credentials (AUTH, in the form "account:password"), the local dir to which you want to sync, and your filetypes (space-separated)
+* edit App/WebDavSync/**config.conf** (not config.json) and set your parameters
 * keep only launch_fr.sh (french) or launch_en.sh (english), and rename it to launch.sh
 
 ## Config Example:
